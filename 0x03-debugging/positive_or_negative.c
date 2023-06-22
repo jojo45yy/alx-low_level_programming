@@ -4,7 +4,8 @@
 *main - Determine if number is
 (* 0: is the number to be checked
 * Return: 0 on success
-*/
+**/
+
 void positive_or_negative(int i)
 {
 	if ( i < 0 )
